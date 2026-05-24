@@ -212,6 +212,3 @@ No API keys needed — everything runs with mock data out of the box.
 - [x] Manual tool executor with registry pattern
 - [x] Parallel fan-out for weather + image enrichment
 
----
-
-Built as an AI Engineering internship assignment submission.
