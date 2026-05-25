@@ -170,9 +170,6 @@ No API keys needed — everything runs with mock data out of the box.
 
 ---
 
-## 📸 Screenshots
-
-> Screenshots will be added after running the application.
 
 ---
 
